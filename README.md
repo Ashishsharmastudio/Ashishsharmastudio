@@ -4,7 +4,7 @@
 ███████║███████╗███████║██║█████╗   ╚███╔╝ 
 ██╔══██║╚════██║██╔══██║██║██╔══╝   ██╔██╗ 
 ██║  ██║███████║██║  ██║██║███████╗██╔╝ ██╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝═══════╝╚═╝  ╚═╝
 -->
 
 <p align="center">
@@ -17,79 +17,68 @@
 
 ---
 
-# 👋 Hey, I'm **Ashish Sharma** (they/them)
+# 👋 Hey, I'm **Ashish Sharma**
 
-I build **real-time AI systems**, **voice agents**, and **scalable full-stack apps** designed for real-world chaos — not academic demo-land.  
-I’m about **automation that works**, **AI that reasons**, and **software that ships**.
+I design and deploy **production-grade AI systems** — real-time voice agents, LLM applications, and full-stack automation that businesses can rely on.
 
----
-
-## 🧠 **About Me**
-- Voice AI (Pipecat, Faster-Whisper, AWS Polly)  
-- RAG Architect ⚕️⚖️  
-- MLOps + Automation Engineer  
-- Full-Stack Dev (MERN • Next.js • FastAPI)  
-- DevOps (Docker • Vercel • AWS)  
-
-I live at the intersection of:  
-**“Traditional engineering discipline” × “Gen-Z execution energy.”**
+No hype.  
+No vaporware.  
+Just **AI engineered to survive the real world.**
 
 ---
 
-# 🚀 **What I Build**
+# 🎯 **What I Help Businesses Do**
 
-### 🤖 AI & Voice Systems
-- Natural voice agents with memory & reasoning  
-- Real-time streaming ASR + TTS  
-- Dynamic LLM orchestration for live interaction  
+- Build **24/7 conversational AI assistants** that actually reduce workload  
+- Transform operations using **RAG, autonomous agents, and workflow orchestration**  
+- Create **voice-driven products** (Whisper, Polly, Pipecat, streaming ASR/TTS)  
+- Ship **full-stack platforms** with strong UI/UX and resilient backend APIs  
+- Integrate systems like **Notion, Git, CRMs, scheduling tools** into seamless automations  
 
-### 🧩 Applied GenAI Solutions
-- Medical RAG assistants  
-- Legal workflow automation  
-- Scheduling & CRM automation bots  
-
-### 🛠 Full-Stack Engineering
-- Next.js / React dashboards  
-- REST / Websocket microservices  
-- Scalable backend infra  
-
-### ⚙️ Automation & Integrations
-- Notion → Git → Workflow agents  
-- Data pipelines & analytics  
-- End-to-end workflow orchestration
+If it needs **AI + Engineering + Reliability**, I’m your builder.
 
 ---
 
-# 📌 **Highlighted Projects**
+# 🧠 **Capabilities at a Glance**
+
+- **Voice AI Architect** — realtime ASR/TTS, memory layers, interruption logic  
+- **Applied GenAI** — medical, legal, enterprise automation systems  
+- **MERN / Next.js Engineering** — modern, high-performance frontends  
+- **Backend & DevOps** — FastAPI, Node.js, Docker, AWS, scalable pipelines  
+- **Agent Integrations** — MCP, GitOps, Notion automation  
+
+I merge **traditional engineering discipline** with **modern AI execution velocity**.
+
+---
+
+# 🚀 **Flagship Projects (Client-Facing Impact)**
 
 <details>
 <summary><strong>🎧 Real-Time Voice AI Agent</strong></summary>
-Fully streaming ASR → LLM → TTS loop with memory, emotions, and interrupt handling.
+End-to-end conversational loop (ASR → LLM → TTS) with emotional tone control, interrupt detection, and contextual memory.  
+Built for production workloads — not demos.
 </details>
 
 <details>
 <summary><strong>⚖️ Legal Assistant AI</strong></summary>
-Automates client intake, case analysis & document generation.
+Automates client intake, case reasoning, and document generation for law firms.  
+Reduces manual effort by hours per case.
 </details>
 
 <details>
 <summary><strong>🏥 Medical GenAI (RAG)</strong></summary>
-Domain-specific RAG with medical-grade retrieval + structured reasoning.
+Domain-aware retrieval system with structured clinical reasoning and safety-first design.
 </details>
 
 <details>
-<summary><strong>🗂 AI Agent + MCP Integrations</strong></summary>
-Agent that autonomously handles Notion tasks & Git updates.
+<summary><strong>🗂 MCP Automation Agent</strong></summary>
+AI agent that autonomously updates Git repos, manages Notion tasks, and maintains workflow hygiene.
 </details>
 
 <details>
 <summary><strong>🛒 Triple Lyoness Farm E-Commerce</strong></summary>
-Full production MERN stack for a live business.
+Production-ready MERN e-commerce system powering a real family-run business.
 </details>
-
----
-
-<p align="center">⚡ 🌙 🚀 ✨ ⚙️ 📡 🤖 ✨ 🚀 🌙 ⚡</p>
 
 ---
 
@@ -101,7 +90,7 @@ Full production MERN stack for a live business.
 
 ---
 
-# 🐍 **Contribution Snake (Raw, Permanent, Unbreakable)**
+# 🐍 **Contribution Snake**
 
 <p align="center">
   <picture>
@@ -113,7 +102,7 @@ Full production MERN stack for a live business.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 **GitHub Stats**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-github-v2.vercel.app/api?username=Ashishsharmastudio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -134,7 +123,7 @@ Full production MERN stack for a live business.
 
 ---
 
-# 🔗 **Connect With Me**
+# 🔗 **Work With Me**
 
 <p align="center">
   <a href="https://ashish-sharma-portfolio-phi.vercel.app/">
@@ -152,8 +141,21 @@ Full production MERN stack for a live business.
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Handshake.gif" width="150" />
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=footer" />
 </p>
+
+---
+
+# 💼 **Want a CTA That Directly Converts Clients?**
+
+I can add any of these sections:
+
+### ✔️ B2B AI Services CTA  
+### ✔️ Startup-Founder Friendly CTA  
+### ✔️ Freelancer Lead-Conversion CTA  
+### ✔️ Consulting / Pricing Packages CTA  
+
+Tell me your audience:  
+**agencies, startups, founders, small businesses, or enterprise** —  
+and I’ll craft the perfect closing pitch.
