@@ -147,15 +147,42 @@ Production-ready MERN e-commerce system powering a real family-run business.
 
 ---
 
-# 💼 **Want a CTA That Directly Converts Clients?**
+# 💼 **Ready to Build Something Real? Let's Work Together.**
 
-I can add any of these sections:
+If you're looking for a developer who can **design, build, and ship** AI-powered systems without the hand-holding — I'm your person.
 
-### ✔️ B2B AI Services CTA  
-### ✔️ Startup-Founder Friendly CTA  
-### ✔️ Freelancer Lead-Conversion CTA  
-### ✔️ Consulting / Pricing Packages CTA  
+I work with:
 
-Tell me your audience:  
-**agencies, startups, founders, small businesses, or enterprise** —  
-and I’ll craft the perfect closing pitch.
+### 🚀 Founders  
+Need an MVP fast?  
+I build **production-ready AI features**, not prototypes that break when users show up.
+
+### 🧑‍💼 Businesses & Agencies  
+Automate workflows, reduce operational load, and deploy AI assistants that make your team faster — not confused.
+
+### 🛠 Solo Entrepreneurs  
+Want to turn your idea into a product?  
+I'll help you architect it, build it, and get it running live.
+
+---
+
+## 🔥 What You Get When You Work With Me
+
+- **Clear communication** and weekly updates  
+- **Fast execution** with clean engineering practices  
+- **Scalable architecture** that future-proofs your product  
+- **AI systems that actually work in production**  
+- **On-time delivery**, every time  
+
+My goal is simple:  
+**Deliver work that pays for itself.**
+
+---
+
+# 📩 **Kickstart Your Project**
+
+📧 **Email:** ashishsharmastudio@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/ashish-sharma-rrr  
+🌐 **Portfolio:** https://ashish-sharma-portfolio-phi.vercel.app/
+
+👉 _Tell me what you’re trying to build — I’ll tell you how we can make it real._
