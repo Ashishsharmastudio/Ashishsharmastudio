@@ -12,9 +12,10 @@
 
 # 👋 Hey, I'm **Ashish Sharma** (they/them)
 
-### 🚀 Full-Stack & AI Developer | MERN • Python • GenAI • Voice AI • Automation
+### 🚀 Full-Stack & AI Developer | MERN • Python • GenAI • Voice AI • Automation  
 
-Passionate about building scalable web apps, intelligent agents, and real-time AI systems.
+Passionate about building scalable web apps, intelligent agents, and real-time AI systems.  
+I merge **full-stack engineering** with **next-gen AI** to create products that actually ship, scale, and solve real problems.
 
 ---
 
@@ -28,8 +29,55 @@ I specialize in:
 - 🛠 Full-Stack Engineering (MERN, Next.js, FastAPI)  
 - ⚙️ Automation & MCP Integrations  
 
-My focus?  
-**Building AI that actually ships, scales, and delivers impact.**
+My work spans from production client projects to advanced automation tools integrating LLMs, RAG pipelines, and real-time inference engines.
+
+I’m driven by a simple goal:  
+**Build useful AI — the kind people actually depend on.**
+
+---
+
+# 🚀 **What I Build**
+
+### 🤖 AI & Voice Agents
+- Real-time voice AI agents (Pipecat, Faster Whisper, AWS Polly)  
+- Conversational assistants with memory & context  
+- Realtime streaming pipelines  
+
+### 🧩 Applied GenAI Products
+- Medical chatbots (RAG)  
+- Legal practice AI assistants  
+- Appointment booking AI systems  
+- Domain-specific automation tools  
+
+### 🛠 Full-Stack Engineering
+- Next.js / React frontends  
+- Node.js / Express & FastAPI backends  
+- Docker, AWS, Vercel deployments  
+- Secure API architecture & auth systems  
+
+### ⚙️ Automation & Integrations
+- MCP integrations (Notion, Git)  
+- Workflow automation tools  
+- Data analytics & processing APIs  
+
+---
+
+# 📌 **Highlighted Projects**
+
+- **🎧 Real-Time Voice AI Agent**  
+  Natural voice conversations using LLMs, Faster Whisper & AWS Polly.
+
+- **⚖️ Legal Assistant AI**  
+  Automated intake, case evaluation & document drafting.
+
+- **🏥 GenAI Medical Chatbot (RAG)**  
+  Medical assistant grounded through vector search.
+
+- **🗂 AI Agent + MCP Integration**  
+  Intelligent agent connecting to Notion & Git servers.
+
+- **🛒 Triple Lyoness Farm E-commerce**  
+  Production full-stack build for a real business.
 
 ---
 
@@ -39,30 +87,6 @@ My focus?
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,express,fastapi,mongodb,postgres,sqlite,git,github,docker,aws,vercel" />
 </p>
-
----
-
-# 📌 **Highlighted Projects**
-
-### 🎧 **Real-Time Voice AI Agent**
-Production-grade conversational system using Faster Whisper, AWS Polly & LLMs.  
-➡️ Real-time streaming pipeline  
-➡️ Natural human-like dialogues  
-
-### ⚖️ **Legal Assistant AI**
-LLM-powered workflow automation for legal professionals.  
-➡️ Automated intake  
-➡️ Case analysis  
-➡️ Document drafting  
-
-### 🏥 **GenAI Medical Chatbot (RAG)**
-Domain-specific medical assistant with retrieval-based grounding.
-
-### 🗂 **AI Agent + MCP Integration**
-Autonomous agent interacting with Notion & Git servers for task automation.
-
-### 🛒 **E-commerce & Client Websites**
-Full-stack websites for real clients, including Triple Lyoness Farm & Rotor Wing Services.
 
 ---
 
@@ -87,14 +111,6 @@ Full-stack websites for real clients, including Triple Lyoness Farm & Rotor Wing
 
 ---
 
-# 🏆 **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishsharmastudio&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 # 🎯 **Badges & Social Links**
 
 ### 🌐 Portfolio  
@@ -115,4 +131,3 @@ Full-stack websites for real clients, including Triple Lyoness Farm & Rotor Wing
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Handshake.gif" width="150" />
 </p>
-
