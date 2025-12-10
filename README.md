@@ -1,11 +1,11 @@
-<!-- Hero Banner -->
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4b6cb7,100:182848&text=Ashish%20Sharma&fontColor=ffffff&fontAlignY=40&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Ashish%20Sharma&fontColor=ffffff&fontSize=55&fontAlignY=40" />
 </p>
 
-<!-- Typing Header -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00E0FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Voice+AI+%7C+GenAI+%7C+Automation;I+Build+AI+That+Ships+%26+Scales;Turning+Ideas+Into+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Voice+AI+Architect;Automation+Builder;I+Create+AI+That+Actually+Ships" />
 </p>
 
 ---
@@ -19,115 +19,108 @@ I merge **full-stack engineering** with **next-gen AI** to create products that 
 
 ---
 
-## 🧠 **About Me**
-
+# 🌌 **About Me**
 I specialize in:
 
-- ⚡ Real-Time Voice AI Agents  
-- 🤖 LLM Orchestration & RAG Systems  
-- 🧩 Applied GenAI Products  
-- 🛠 Full-Stack Engineering (MERN, Next.js, FastAPI)  
-- ⚙️ Automation & MCP Integrations  
+- ⚡ Real-Time Voice AI (Pipecat, Whisper, Polly)
+- 🤖 LLM Orchestration & RAG Systems
+- 🧩 Applied GenAI for real-world industries
+- 🛠 Full-Stack Engineering with MERN & FastAPI
+- 🔗 Automation + MCP Integrations  
+- 🚀 Production-ready deployments
 
-My work spans from production client projects to advanced automation tools integrating LLMs, RAG pipelines, and real-time inference engines.
-
-I’m driven by a simple goal:  
-**Build useful AI — the kind people actually depend on.**
-
----
-
-# 🚀 **What I Build**
-
-### 🤖 AI & Voice Agents
-- Real-time voice AI agents (Pipecat, Faster Whisper, AWS Polly)  
-- Conversational assistants with memory & context  
-- Realtime streaming pipelines  
-
-### 🧩 Applied GenAI Products
-- Medical chatbots (RAG)  
-- Legal practice AI assistants  
-- Appointment booking AI systems  
-- Domain-specific automation tools  
-
-### 🛠 Full-Stack Engineering
-- Next.js / React frontends  
-- Node.js / Express & FastAPI backends  
-- Docker, AWS, Vercel deployments  
-- Secure API architecture & auth systems  
-
-### ⚙️ Automation & Integrations
-- MCP integrations (Notion, Git)  
-- Workflow automation tools  
-- Data analytics & processing APIs  
-
----
-
-# 📌 **Highlighted Projects**
-
-- **🎧 Real-Time Voice AI Agent**  
-  Natural voice conversations using LLMs, Faster Whisper & AWS Polly.
-
-- **⚖️ Legal Assistant AI**  
-  Automated intake, case evaluation & document drafting.
-
-- **🏥 GenAI Medical Chatbot (RAG)**  
-  Medical assistant grounded through vector search.
-
-- **🗂 AI Agent + MCP Integration**  
-  Intelligent agent connecting to Notion & Git servers.
-
-- **🛒 Triple Lyoness Farm E-commerce**  
-  Production full-stack build for a real business.
+**Goal:** Build AI people depend on — not gimmicks.
 
 ---
 
 # 🧰 **Tech Stack**
 
-### 🚀 Languages & Frameworks  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,express,fastapi,mongodb,postgres,sqlite,git,github,docker,aws,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,express,fastapi,mongodb,postgres,sqlite,git,github,docker,aws,vercel&perline=7" />
 </p>
 
 ---
 
-# 📊 **GitHub Stats**
+# 📦 **Highlighted Projects**
+<details>
+<summary><strong>🎧 Real-Time Voice AI Agent</strong></summary>
+
+- Natural conversational AI  
+- Faster Whisper + AWS Polly  
+- Realtime audio streaming
+</details>
+
+<details>
+<summary><strong>⚖️ Legal Assistant AI</strong></summary>
+
+- Client intake automation  
+- Case analysis  
+- Auto document drafting  
+</details>
+
+<details>
+<summary><strong>🏥 GenAI Medical Chatbot (RAG)</strong></summary>
+
+- Vector search + medical grounding  
+- Custom knowledge base  
+</details>
+
+<details>
+<summary><strong>🗂 AI Agent + MCP Integration</strong></summary>
+
+- Autonomous agent connecting to Notion & Git  
+</details>
+
+<details>
+<summary><strong>🛒 Triple Lyoness E-commerce Build</strong></summary>
+
+- Production Next.js site  
+</details>
+
+---
+
+# 📊 **GitHub Stats (Fully Working)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishsharmastudio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishsharmastudio&theme=tokyonight&hide_border=true" width="48%">
+  <img width="48%" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Ashishsharmastudio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Ashishsharmastudio&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsharmastudio&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+  <img width="42%" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Ashishsharmastudio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 **GitHub Activity Graph**
-
+# 📈 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsharmastudio&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🎯 **Badges & Social Links**
+# 🔗 **Socials & Contact**
 
-### 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel)](https://ashish-sharma-portfolio-phi.vercel.app/)
-
-### 🧑‍💻 GitHub  
-[![GitHub](https://img.shields.io/badge/GitHub-Ashishsharmastudio-000?style=for-the-badge&logo=github)](https://github.com/Ashishsharmastudio)
-
-### 🔗 LinkedIn  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashish-sharma-rrr)
-
-### 📧 Email  
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ashishsharmastudio@gmail.com)
+<p align="center">
+  <a href="https://ashish-sharma-portfolio-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://linkedin.com/in/ashish-sharma-rrr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ashishsharmastudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-# ❤️ Thanks for Visiting  
+# ✨ Emoji Divider Footer
+<p align="center">⚡🌙🚀✨⚙️📡🤖✨🚀🌙⚡</p>
+
+---
+
+# ❤️ Thanks for visiting!
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Handshake.gif" width="150" />
 </p>
